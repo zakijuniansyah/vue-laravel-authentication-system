@@ -21,6 +21,7 @@ This project implements authentication system with API integration.
 Clone project:
 
 git clone https://github.com/zakijuniansyah/vue-laravel-authentication-system.git
+
 cd vue-laravel-authentication-system
 
 Install dependencies:
